@@ -48,7 +48,7 @@ roxiler-backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/roxiler-dashboard.git
+git clone https://github.com/Pratik9145/roxiler-dashboard.git
 cd roxiler-dashboard
 ```
 

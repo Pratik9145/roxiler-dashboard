@@ -13,12 +13,16 @@ A full-stack MERN application to visualize product transactions by month with ch
 ## 💼 Features
 
 * 📅 Filter transactions by month
+* ![image](https://github.com/user-attachments/assets/29a2583f-5228-4361-9073-4e81f7ff1c9b)
 * 🔍 Search transactions by title, description, or price
+* ![image](https://github.com/user-attachments/assets/ff89f301-fb64-4f4a-a54d-4c844bc163f0)
 * 📊 Visualize data with:
-
   * Bar Chart (price range)
   * Pie Chart (categories)
+  ![image](https://github.com/user-attachments/assets/e01e4c5a-6caa-4a87-af33-008a55474d6a)
 * 📈 Statistics: total sale, sold items, unsold items
+* ![image](https://github.com/user-attachments/assets/ab0058d4-b133-4445-913e-175ffe1beb09)
+
 * 🔄 Pagination & Combined API response
 
 ---
